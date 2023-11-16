@@ -8,12 +8,12 @@
 ### Agregar como "jit"
 Permisos de ejecución
 ```console
-foo@bar:~$ chmod u+x git-bash.sh 
+foo@bar:~$ chmod u+x script.sh 
 ```
 
 Modificar archivo ~/.bashrc
 ```bash
-alias jit="[pwd]/git-bash.sh" 
+alias jit="[pwd]/script.sh" 
 ```
 En Terminal
 ```console
