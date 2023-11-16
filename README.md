@@ -1,4 +1,4 @@
-# GIT BASH
+# Jit
 
 ### Script para agilizar comandos de Git como:
 - status
